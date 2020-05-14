@@ -3,7 +3,7 @@ This Repository is a part of my College OOPS Mini-Project.
    COLLEGE MANAGEMENT SYSTEM
 
 1.	WHAT DOES THE PROJECT ACTUALLY AIM AND HOW IT WORKS?
-We have created a college management system in which we can store the data of professors and students and then also fetch them accordingly. It also allows user to remove a professor or a student.
+We have created a college management system in which we can store the data of professors and students and then also fetch them accordingly. It also allows user to remove a professor or a student.  
 •	Recruit a professor -> makes you add professor details.
 •	Search for a professor -> displays the professor information.
 •	Remove a professor-> makes you remove data of professor.
